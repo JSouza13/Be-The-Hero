@@ -33,7 +33,7 @@
 
 * Login de ONG
 
-* Logout de ONG
+* Logout de ONG (**frontend**)
 
 * Cadastro de ONG
 
@@ -45,7 +45,7 @@
 
 * Listar todos os casos
 
-* Entrar em contato com a ONG (frontend)
+* Entrar em contato com a ONG (**frontend**)
 
 ### Migrations
 
