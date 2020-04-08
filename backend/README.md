@@ -1,5 +1,5 @@
 
-# Contruindo a base da aplicação
+# Construindo a base da aplicação
 
 ### Ferramentas utilizadas
 
@@ -63,4 +63,3 @@ Através do **knex**, definimos as migrations utlizando o comando `❯ yarn knex
 
 * Consultandoomandos do **knex**:  
   `❯ yarn knex`
-
