@@ -21,6 +21,9 @@
 * **crypto**  
   Biblioteca fornecido pelo próprio node, onde foi utilizada para gerar o Id da ONG.
 
+* **cors**  
+  Utilizada para segurança da aplicação, determinando quem terá acesso a ela.
+
 ### Entidades
 
 * **ONG**  
