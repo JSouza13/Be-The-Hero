@@ -11,9 +11,11 @@
 
 ### Bibliotecas utilizadas
 
-* **express**
+* **express**  
+  O Express.js é um framework Node, ele cria abstrações de rotas, middlewares e muitas outras funções para facilitar a criação tanto de API's quanto SPA's.
 
-* **nodemon**
+* **nodemon**  
+  Utilizada para o auto-restart da aplicação, toda vez que um arquivo do projeto for modificado
 
 * **knex**  
   Utilizada para o gerenciamento do nosso DB
@@ -66,3 +68,32 @@ Através do **knex**, definimos as migrations utlizando o comando `❯ yarn knex
 
 * Consultandoomandos do **knex**:  
   `❯ yarn knex`
+
+## Tipos de parâmetros
+
+* Query:  
+  Parâmetros nomeados, que são enviados na rota após "?", utilizadas em paginações, filtros...  
+  Na aplicação, passaríamos algo como:  
+  `app.get('/users', (req, res) => { const params = req.query; return res.json();})`  
+  Que retornaria todos os parâmetros passados na url.  
+
+  E na URl, passaríamos algo como:  
+  `http://localhost:3333/users?page=2&nome=Joao&idade=25`
+
+* Route:  
+  Parâmetros utilizados para identificar recursos, como exemplo passando um id pela rota.  
+  Na aplicação, passaríamos algo como:  
+  `app.get('/users/:id', (req, res) => { const params = req.params; return res.json();});`  
+  Que retornaria todos os parâmetros passados na url.
+
+  E na URl, passaríamos algo como:  
+  `http://localhost:3333/users/1`
+
+* Request Body:  
+  Corpo da requisição, utilizado para criar ou alterar recursos.  
+  Na aplicação, passaríamos algo como:  
+  `app.post('/users', (req, res) => { const body = req.body; return res.json();});`  
+  Que retornaria todos os parâmetros passados na url.
+
+  E na URl, passaríamos algo como:  
+  `http://localhost:3333/users`
