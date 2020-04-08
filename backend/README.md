@@ -45,7 +45,7 @@
 
 * Listar todos os casos
 
-* Entrar em contato com a ONG
+* Entrar em contato com a ONG (frontend)
 
 ### Migrations
 
