@@ -4,8 +4,8 @@
 
 #### **Seja um verdadeiro Heroi!** 🦸‍♂️
 
-  [![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-red)](https://rocketseat.com.br)
-  ![License](https://img.shields.io/badge/license-MIT-red)
+  ![Made by Rocketseat](https://img.shields.io/badge/made%20by-JSouza-green)
+  ![License](https://img.shields.io/badge/license-MIT-blue)
 </div>
 
 ## :rocket: Tecnologias usadas
