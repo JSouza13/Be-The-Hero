@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+![Be The Hero](./src/assets/logo.svg)
 
-In the project directory, you can run:
+# 🚀 Semana OmniStack 11.0 by RocketSeat
 
-### `yarn start`
+![Made by Rocketseat](https://img.shields.io/badge/made%20by-JSouza-green)
+  ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![GitHub language count](https://img.shields.io/github/languages/count/JSouza13/Be-The-Hero)
+</div>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Conceitos revisados
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* **Componentes**
 
-### `yarn test`
+* **JSX**  
+  Escrever HTML dentro do Javascript
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **Propriedades**  
 
-### `yarn build`
+* **Estado**  
+  O estado ( state ) de um componente React tem uma função muito simples e específica. Ele é uma propriedade do componente onde colocamos dados que, quando mudados, devem causar uma nova renderização.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Imutabilidade**  
+  O estado é imutável, ele não se altera, ele é recriado.  
+  Um exemplo poredia ser  `const [value, setValue] = useState() ` onde o value nunca será alterado diretamente por um função. Que deverá sofrer as alterações é o nosso `setValue`
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Bibliotecas utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **styled-components**  
+  Ela utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript
 
-### `yarn eject`
+* **react-router-dom**  
+  Utilizada para a configuração das nossas rotas. o `Link` também foi utilizado com o objetivo de trasitar entre os meus components sem recarregar toda minha aplicação.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📱 Interfaces
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A aplicação frontend conta com quatro interface, onde duas delas são interfaces de cadastro, onde pode-se cadastrar ongs e os incidentes. Além disso, conta com uma interface onde é possível cada ong visualizar todos os casos cadastrados por ela.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔄 Executar
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Entrar na pasta `frontend`;
 
-## Learn More
+* Executar `yarn install` para instalar dependências do projeto;
+  
+* Executar `yarn start` para que o projeto seja executado;
+  
+## 📝 Licença
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](../LICENSE.md) para mais detalhes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+<div align="center">
 
-### Code Splitting
+#### Feito com :blue_heart: by JSouza :wave: [Entre em contato!](https://www.linkedin.com/in/joaovitor-souza/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+</div>
