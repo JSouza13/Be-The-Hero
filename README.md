@@ -1,11 +1,11 @@
 <div align="center">
 
-![Be The Hero](./img/logo.svg)
+  ![Be The Hero](./img/logo.svg)
 
- #### **Seja um verdadeiro Heroi!** 🦸‍♂️
+#### **Seja um verdadeiro Heroi!** 🦸‍♂️
 
-[![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-red)](https://rocketseat.com.br)
-![License](https://img.shields.io/badge/license-MIT-red)
+  [![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-red)](https://rocketseat.com.br)
+  ![License](https://img.shields.io/badge/license-MIT-red)
 </div>
 
 ## :rocket: Tecnologias usadas
@@ -28,3 +28,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :mortar_board: Quem ministrou?
 
 A semana foi ministrada pelo **Mestre Jedi** [Diego Fernandes](https://github.com/diego3g). Meu mais sinceros agradecimentos a esse cara e a [Rocketseat](https://rocketseat.com.br), vocês tem feito um papel muito importante para essa comunidade! :rocket:  
+
+# :trophy: Certificado  
+
+Ao fim da semana, foi lançado um questionário avaliando nossos conhecimentos adiquiridos durante a semana, sendo recompensado com um certificado. 
+
+![Certificado](./img/certificado.png)
