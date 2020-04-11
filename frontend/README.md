@@ -33,6 +33,9 @@
 * **react-router-dom**  
   Utilizada para a configuração das nossas rotas. o `Link` também foi utilizado com o objetivo de trasitar entre os meus components sem recarregar toda minha aplicação.
 
+* **axios**  
+  Uma biblioteca que é basicamente uma API que sabe interagir tanto com XMLHttpRequest quanto com a interface http do node
+
 ## 📱 Interfaces
 
 A aplicação frontend conta com quatro interface, onde duas delas são interfaces de cadastro, onde pode-se cadastrar ongs e os incidentes. Além disso, conta com uma interface onde é possível cada ong visualizar todos os casos cadastrados por ela.
