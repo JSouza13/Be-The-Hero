@@ -6,6 +6,7 @@
 
   ![Made by Rocketseat](https://img.shields.io/badge/made%20by-JSouza-green)
   ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![GitHub language count](https://img.shields.io/github/languages/count/JSouza13/Be-The-Hero)
 </div>
 
 ## :rocket: Tecnologias usadas
@@ -35,12 +36,13 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 # :trophy: Certificado  
 
-Ao fim da semana, foi lançado um questionário avaliando nossos conhecimentos adiquiridos durante a semana, sendo recompensado com um certificado. 
+Ao fim da semana, foi lançado um questionário avaliando nossos conhecimentos adiquiridos durante a semana, sendo recompensado com um certificado.
 
 ![Certificado](./img/certificado.png)
 
+---
 <div align="center">
 
-Feito com :blue_heart: by JSouza :wave: [Entre em contato!](https://www.linkedin.com/in/joaovitor-souza/)
+#### Feito com :blue_heart: by JSouza :wave: [Entre em contato!](https://www.linkedin.com/in/joaovitor-souza/)
 
 </div>
